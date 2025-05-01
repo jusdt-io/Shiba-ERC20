@@ -1,0 +1,11 @@
+{
+  "symbol": "JUSDT",
+  "name": "JUSDT",
+  "address": "0x047330be3669bb9c4ba12eaf1e0ed923026ff60c",
+  "chainId": 1,
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/jusdt-io/assets/main/blockchains/ethereum/assets/0x047330be3669bb9c4ba12eaf1e0ed923026ff60c/logo.png",
+  "website": "https://t.me/jsonrcvusdt",
+  "description": "JUSDT is a decentralized stablecoin based on Ethereum blockchain."
+}
+
