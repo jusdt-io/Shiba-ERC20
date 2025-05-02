@@ -9,7 +9,7 @@ Official Smart Contract and Files for JUSDT
 - **Symbol:** JUSDT  
 - **Decimals:** 18  
 - **Contract Address:** `0x047330be3669bb9c4ba12eaf1e0ed923026ff60c`  
-- **Website:** [https://t.me jusdt.io](https://jusdt.io)
+- **Website:** [https://www.jusdt.com](https://jusdt.io)
 
 ## Description
 
