@@ -5,7 +5,7 @@ Official Smart Contract and Files for JUSDT
 
 ## Token Details
 
-- **Name:** JUSDT Token  
+- **Name:** JUSDT 
 - **Symbol:** JUSDT  
 - **Decimals:** 18  
 - **Contract Address:** `0x047330be3669bb9c4ba12eaf1e0ed923026ff60c`  
