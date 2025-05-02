@@ -9,9 +9,11 @@ Official Smart Contract and Files for JUSDT
 - **Symbol:** JUSDT  
 - **Decimals:** 18  
 - **Contract Address:** `0x047330be3669bb9c4ba12eaf1e0ed923026ff60c`  
-- **Website:** [https://www.jusdt.com](https://jusdt.io)
+- **Website:** [https://www.jsonusdt.com]
+- **Telegram**[https://t.me/jsonrcvusdt]
 
-## Description
+
+ Description
 
 JUSDT is a decentralized ERC-20 stablecoin on Ethereum, created for seamless and stable value transfer. Powered by smart contract infrastructure and backed by liquidity mechanisms like Aave.
 
