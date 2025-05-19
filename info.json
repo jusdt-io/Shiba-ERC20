@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "symbol": "JUSDT",
   "name": "JUSDT",
   "address": "0x047330be3669bb9c4ba12eaf1e0ed923026ff60c",
@@ -9,3 +10,20 @@
   "description": "JUSDT is a decentralized stablecoin based on Ethereum blockchain."
 }
 
+=======
+  "name": "JUSDT Token",
+  "symbol": "JUSDT",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "JUSDT is a decentralized stablecoin on Ethereum, providing fast, secure, and stable value transfers across DeFi.",
+  "website": "https://jsonusdt.com",
+  "explorer": "https://etherscan.io/token/0x047330be3669bB9C4bA12eaF1e0ed923026ff60c",
+  "status": "active",
+  "id": "jusdt",
+  "links": {
+    "github": "https://github.com/jusdt-io/Jusdt-Token",
+    "telegram": "https://t.me/jusdt_stablecoin",
+    "medium": "https://medium.com/@mathewmerlin72"
+  }
+}
+>>>>>>> dd9bcf6 (Initial commit)
