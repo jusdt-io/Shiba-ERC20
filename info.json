@@ -1,5 +1,6 @@
 {
-<<<<<<< HEAD
+ HEAD
+ HEAD
   "symbol": "JUSDT",
   "name": "JUSDT",
   "address": "0x047330be3669bb9c4ba12eaf1e0ed923026ff60c",
@@ -8,22 +9,23 @@
   "logoURI": "https://raw.githubusercontent.com/jusdt-io/assets/main/blockchains/ethereum/assets/0x047330be3669bb9c4ba12eaf1e0ed923026ff60c/logo.png",
   "website": "https://t.me/jsonrcvusdt",
   "description": "JUSDT is a decentralized stablecoin based on Ethereum blockchain."
-}
 
-=======
   "name": "JUSDT Token",
+
+  "name": "JUSDT",
+ 28158a8 (📄 Added README and info.json for CoinGecko submission)
   "symbol": "JUSDT",
   "type": "ERC20",
   "decimals": 18,
-  "description": "JUSDT is a decentralized stablecoin on Ethereum, providing fast, secure, and stable value transfers across DeFi.",
+  "description": "JUSDT is an Ethereum-based stablecoin designed to provide secure, fast, and transparent transfers.",
   "website": "https://jsonusdt.com",
-  "explorer": "https://etherscan.io/token/0x047330be3669bB9C4bA12eaF1e0ed923026ff60c",
-  "status": "active",
-  "id": "jusdt",
-  "links": {
-    "github": "https://github.com/jusdt-io/Jusdt-Token",
-    "telegram": "https://t.me/jusdt_stablecoin",
-    "medium": "https://medium.com/@mathewmerlin72"
-  }
+  "telegram": "https://t.me/jusdt_stablecoin",
+  "twitter": "https://twitter.com/Jsonusdt",
+  "github": "https://github.com/jusdt-io/Jusdt-Token",
+  "email": "admin@jsonusdt.com"
 }
->>>>>>> dd9bcf6 (Initial commit)
+ HEAD
+ dd9bcf6 (Initial commit)
+
+
+ 28158a8 (📄 Added README and info.json for CoinGecko submission)

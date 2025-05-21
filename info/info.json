@@ -1,27 +1,3 @@
- HEAD
-# Jusdt-Token
-Official Smart Contract and Files for JUSDT | ERC20 | DeFi Token
-# Jusdt-Token
-Official Smart Contract and Files for JUSDT
-
-## Token Details
-
-- **Name:** JUSDT 
-- **Symbol:** JUSDT  
-- **Decimals:** 18  
-- **Contract Address:** `0x047330be3669bb9c4ba12eaf1e0ed923026ff60c`  
-- **Website:** [https://www.jsonusdt.com]
-- **Telegram**[https://t.me/jsonrcvusdt]
-
-
- Description
-
-JUSDT is a decentralized ERC-20 stablecoin on Ethereum, created for seamless and stable value transfer. Powered by smart contract infrastructure and backed by liquidity mechanisms like Aave.
-
-## License
-
-MIT
-=======
 # JUSDT Token
 
 **JUSDT** is a decentralized, Ethereum-based stablecoin designed to provide fast, transparent, and reliable value transfers.  
@@ -61,4 +37,3 @@ With a developer-first mindset and community-led governance, JUSDT is here to ma
 - **Maintainer**: Mathew Merlin ([StackOverflow](https://stackoverflow.com/users/25449745/mathew))
 
 ---
- 28158a8 (📄 Added README and info.json for CoinGecko submission)
