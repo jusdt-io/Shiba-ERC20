@@ -21,7 +21,7 @@ JUSDT is a decentralized ERC-20 stablecoin on Ethereum, created for seamless and
 ## License
 
 MIT
-=======
+
 # JUSDT Token
 
 **JUSDT** is a decentralized, Ethereum-based stablecoin designed to provide fast, transparent, and reliable value transfers.  
