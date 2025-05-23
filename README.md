@@ -60,6 +60,22 @@ We welcome community developers and contributors!
 
 ---
 
+## Official Pool Address
+
+To ensure transparency and user trust, here is the official JUSDT pool address:
+
+**Ethereum Address:**  
+`0xDD6e67f8d57E42c6A58D1A93318388e238b6B79e`
+
+- **Network:** Ethereum Mainnet  
+- **Purpose:** Official JUSDT Liquidity Pool / Staking Pool / Treasury (update as needed)
+
+> Always verify addresses via our official channels and documentation.  
+> Never send funds to addresses not published on [jsonusdt.com](https://jsonusdt.com) or our official GitHub.
+
+For further details or integration, refer to our [docs](https://github.com/jusdt-io/JUSDT-API-Access).
+
+
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
