@@ -60,18 +60,32 @@ We welcome community developers and contributors!
 
 ---
 
-## Official Pool Address
+## 💧 Official Liquidity Pool Addresses
 
-To ensure transparency and user trust, here is the official JUSDT pool address:
+To ensure transparency and user trust, here are the official pool addresses associated with the JUSDT project:
 
-**Ethereum Address:**  
-`0xDD6e67f8d57E42c6A58D1A93318388e238b6B79e`
+## Ethereum Mainnet
 
-- **Network:** Ethereum Mainnet  
-- **Purpose:** Official JUSDT Liquidity Pool / Staking Pool / Treasury (update as needed)
+- **Official JUSDT Treasury Pool:**  
+  `0xDD6e67f8d57E42c6A58D1A93318388e238b6B79e`
 
-> Always verify addresses via our official channels and documentation.  
-> Never send funds to addresses not published on [jsonusdt.com](https://jsonusdt.com) or our official GitHub.
+- **Uniswap V3 Pool #1:**  
+  `0xC36442b4a4522E871399CD717aBDD847Ab11FE88`
+
+- **Uniswap V4 Pool #2:**  
+  `0xbD216513d74C8cf14cf4747E6AaA6420FF64ee9e`
+
+- **SushiSwap Pool:**  
+  `0x2214A42d8e2A1d20635c2cb0664422c528B6A432`
+
+## Binance Smart Chain (BSC)
+
+- **PancakeSwap Pool:**  
+  `0x46A15B0b27311cedF172AB29E4f4766fbE7F4364`
+
+> Always verify these addresses using our official documentation or website.  
+> Never send funds to any address not listed in our [official GitHub](https://github.com/jusdt-io) or [website](https://jsonusdt.com).
+
 
 For further details or integration, refer to our [docs](https://github.com/jusdt-io/JUSDT-API-Access).
 
