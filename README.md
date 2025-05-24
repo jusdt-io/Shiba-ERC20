@@ -1,4 +1,4 @@
-![JUSDT Logo](https://gateway.pinata.cloud/ipfs/QmYourImageHashHere)
+![JUSDT Logo](https://gateway.pinata.cloud/ipfs/QmYAJadTJNxKaejM9WRoa98giaJj3Bgk4YeMiqBZmFbdqg)
 
 # JUSDT Token
 
