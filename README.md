@@ -10,9 +10,9 @@
 
 | Name  | Symbol | Decimals | Contract Address                         |
 |-------|--------|----------|------------------------------------------|
-| JUSDT | JUSDT  | 18       | `0x047330be3...` (fill the full address) |
+| JUSDT | JUSDT  | 18       | `0x047330be3669bB9C4bA12eaF1e0ed923026ff60c` (fill the full address) |
 
-- **Source Code:** Verified on [Etherscan](https://etherscan.io/address/0x047330be3...)
+- **Source Code:** Verified on [Etherscan](https://etherscan.io/address/0x047330be3669bB9C4bA12eaF1e0ed923026ff60c)
 - **Audit:** In progress ([add audit link if available])
 - **Website:** [jsonusdt.com](https://jsonusdt.com)
 - **Whitepaper:** [Read here](#)
