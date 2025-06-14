@@ -1,0 +1,7 @@
+{
+  "name": "SHIBA INU",
+  "symbol": "SHIBA",
+  "decimals": 18,
+  "description": "An ERC-20 meme token inspired by the community of SHIBA lovers.",
+  "image": "shiba_logo_200x200.png"
+}
