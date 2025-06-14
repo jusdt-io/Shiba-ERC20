@@ -1,2 +1,7 @@
 __pycache__/
 *.zip
+node_modules/
+build/
+*.env
+*.swp
+*.swo
