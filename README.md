@@ -1,4 +1,5 @@
 ![JUSDT Logo](https://gateway.pinata.cloud/ipfs/QmYAJadTJNxKaejM9WRoa98giaJj3Bgk4YeMiqBZmFbdqg)
+[![GitHub Release](https://img.shields.io/github/v/release/jusdt-io/Shiba-ERC20?style=for-the-badge)](https://github.com/jusdt-io/Shiba-ERC20/releases)
 
 # JUSDT Token
 
