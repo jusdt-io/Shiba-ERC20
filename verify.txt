@@ -1,0 +1,1 @@
+npx hardhat verify --network mainnet 0xE06Bbe627D42C7DAfd48a2a5De00e5943b740b1F "0xAB1eE66255885A42Fffb22dd92136Fd6AcAc70e7" "0x95aD61b0a150d79219dcf64e1e6cc01f0b64c4ce"
